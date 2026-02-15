@@ -1,2 +1,9 @@
 # WillItRun
 WillItRun is a basic python script made for checking if a steam game will run on your computer or not. Currently it is only tested with windows but should run on linux and macos as well. It is extremely buggy and wont work for any steam game which lists its requirements in a not so organised way. (eg. Doom The Dark Ages has its requirements in pagraphs, it wont work for this script.)
+
+## Python Requirements
+- beautifulsoup4
+- py-cpuinfo
+- pyopencl
+- psutil
+- requests
